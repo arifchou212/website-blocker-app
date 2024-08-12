@@ -1,2 +1,2 @@
-# website-blocker-app
+# Website-blocker-app
 Block Websites and Focus
